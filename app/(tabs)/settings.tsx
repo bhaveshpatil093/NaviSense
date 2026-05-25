@@ -234,7 +234,7 @@ export default function SettingsScreen() {
           <View style={styles.divider} />
           <View style={styles.readOnlyRow}>
             <Text style={styles.readOnlyLabel}>Team</Text>
-            <Text style={styles.readOnlyValue}>PS29 — Pune Solvathon 2026</Text>
+            <Text style={styles.readOnlyValue}>Team Visioneers — PS29 Pune Solvathon 2026</Text>
           </View>
           <View style={styles.divider} />
           <Pressable 

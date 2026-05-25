@@ -22,7 +22,7 @@
 
 **NaviSense** is a React Native companion app for a smart assistive cane designed for visually impaired users. It communicates with an **ESP32 microcontroller** over Wi-Fi to provide real-time obstacle detection, fall detection, cliff detection, AI-powered object recognition, and emergency SOS functionality.
 
-The app was built as part of **PS29 — Pune Solvathon 2026**.
+The app was built as part of **Team Visioneers — PS29 Pune Solvathon 2026**.
 
 ---
 
@@ -297,6 +297,6 @@ This project is licensed under the **MIT License** — see the [`LICENSE`](LICEN
 
 ## 👥 Team
 
-**PS29 — Pune Solvathon 2026**
+**Team Visioneers — PS29 Pune Solvathon 2026**
 
 Built with ❤️ to make the world more accessible.
